@@ -1,0 +1,32 @@
+D:\Learning\C#\data_structure\bin\Debug\net5.0\data_structure.exe
+D:\Learning\C#\data_structure\bin\Debug\net5.0\data_structure.deps.json
+D:\Learning\C#\data_structure\bin\Debug\net5.0\data_structure.runtimeconfig.json
+D:\Learning\C#\data_structure\bin\Debug\net5.0\data_structure.runtimeconfig.dev.json
+D:\Learning\C#\data_structure\bin\Debug\net5.0\data_structure.dll
+D:\Learning\C#\data_structure\bin\Debug\net5.0\ref\data_structure.dll
+D:\Learning\C#\data_structure\bin\Debug\net5.0\data_structure.pdb
+D:\Learning\C#\data_structure\obj\Debug\net5.0\data_structure.csproj.AssemblyReference.cache
+D:\Learning\C#\data_structure\obj\Debug\net5.0\data_structure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\C#\data_structure\obj\Debug\net5.0\data_structure.AssemblyInfoInputs.cache
+D:\Learning\C#\data_structure\obj\Debug\net5.0\data_structure.AssemblyInfo.cs
+D:\Learning\C#\data_structure\obj\Debug\net5.0\data_structure.csproj.CoreCompileInputs.cache
+D:\Learning\C#\data_structure\obj\Debug\net5.0\data_structure.dll
+D:\Learning\C#\data_structure\obj\Debug\net5.0\ref\data_structure.dll
+D:\Learning\C#\data_structure\obj\Debug\net5.0\data_structure.pdb
+D:\Learning\C#\data_structure\obj\Debug\net5.0\data_structure.genruntimeconfig.cache
+G:\.net project\data_structure\bin\Debug\net5.0\data_structure.exe
+G:\.net project\data_structure\bin\Debug\net5.0\data_structure.deps.json
+G:\.net project\data_structure\bin\Debug\net5.0\data_structure.runtimeconfig.json
+G:\.net project\data_structure\bin\Debug\net5.0\data_structure.runtimeconfig.dev.json
+G:\.net project\data_structure\bin\Debug\net5.0\data_structure.dll
+G:\.net project\data_structure\bin\Debug\net5.0\data_structure.pdb
+G:\.net project\data_structure\obj\Debug\net5.0\data_structure.csproj.AssemblyReference.cache
+G:\.net project\data_structure\obj\Debug\net5.0\data_structure.GeneratedMSBuildEditorConfig.editorconfig
+G:\.net project\data_structure\obj\Debug\net5.0\data_structure.AssemblyInfoInputs.cache
+G:\.net project\data_structure\obj\Debug\net5.0\data_structure.AssemblyInfo.cs
+G:\.net project\data_structure\obj\Debug\net5.0\data_structure.csproj.CoreCompileInputs.cache
+G:\.net project\data_structure\obj\Debug\net5.0\data_structure.dll
+G:\.net project\data_structure\obj\Debug\net5.0\refint\data_structure.dll
+G:\.net project\data_structure\obj\Debug\net5.0\data_structure.pdb
+G:\.net project\data_structure\obj\Debug\net5.0\data_structure.genruntimeconfig.cache
+G:\.net project\data_structure\obj\Debug\net5.0\ref\data_structure.dll

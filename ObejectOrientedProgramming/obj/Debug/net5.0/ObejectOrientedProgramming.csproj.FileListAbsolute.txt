@@ -1,0 +1,32 @@
+D:\Learning\C#\ObejectOrientedProgramming\bin\Debug\net5.0\ObejectOrientedProgramming.exe
+D:\Learning\C#\ObejectOrientedProgramming\bin\Debug\net5.0\ObejectOrientedProgramming.deps.json
+D:\Learning\C#\ObejectOrientedProgramming\bin\Debug\net5.0\ObejectOrientedProgramming.runtimeconfig.json
+D:\Learning\C#\ObejectOrientedProgramming\bin\Debug\net5.0\ObejectOrientedProgramming.runtimeconfig.dev.json
+D:\Learning\C#\ObejectOrientedProgramming\bin\Debug\net5.0\ObejectOrientedProgramming.dll
+D:\Learning\C#\ObejectOrientedProgramming\bin\Debug\net5.0\ref\ObejectOrientedProgramming.dll
+D:\Learning\C#\ObejectOrientedProgramming\bin\Debug\net5.0\ObejectOrientedProgramming.pdb
+D:\Learning\C#\ObejectOrientedProgramming\obj\Debug\net5.0\ObejectOrientedProgramming.csproj.AssemblyReference.cache
+D:\Learning\C#\ObejectOrientedProgramming\obj\Debug\net5.0\ObejectOrientedProgramming.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\C#\ObejectOrientedProgramming\obj\Debug\net5.0\ObejectOrientedProgramming.AssemblyInfoInputs.cache
+D:\Learning\C#\ObejectOrientedProgramming\obj\Debug\net5.0\ObejectOrientedProgramming.AssemblyInfo.cs
+D:\Learning\C#\ObejectOrientedProgramming\obj\Debug\net5.0\ObejectOrientedProgramming.csproj.CoreCompileInputs.cache
+D:\Learning\C#\ObejectOrientedProgramming\obj\Debug\net5.0\ObejectOrientedProgramming.dll
+D:\Learning\C#\ObejectOrientedProgramming\obj\Debug\net5.0\ref\ObejectOrientedProgramming.dll
+D:\Learning\C#\ObejectOrientedProgramming\obj\Debug\net5.0\ObejectOrientedProgramming.pdb
+D:\Learning\C#\ObejectOrientedProgramming\obj\Debug\net5.0\ObejectOrientedProgramming.genruntimeconfig.cache
+G:\.net project\ObejectOrientedProgramming\obj\Debug\net5.0\ObejectOrientedProgramming.csproj.AssemblyReference.cache
+G:\.net project\ObejectOrientedProgramming\obj\Debug\net5.0\ObejectOrientedProgramming.GeneratedMSBuildEditorConfig.editorconfig
+G:\.net project\ObejectOrientedProgramming\obj\Debug\net5.0\ObejectOrientedProgramming.AssemblyInfoInputs.cache
+G:\.net project\ObejectOrientedProgramming\obj\Debug\net5.0\ObejectOrientedProgramming.AssemblyInfo.cs
+G:\.net project\ObejectOrientedProgramming\obj\Debug\net5.0\ObejectOrientedProgramming.csproj.CoreCompileInputs.cache
+G:\.net project\ObejectOrientedProgramming\obj\Debug\net5.0\ObejectOrientedProgramming.dll
+G:\.net project\ObejectOrientedProgramming\obj\Debug\net5.0\ObejectOrientedProgramming.pdb
+G:\.net project\ObejectOrientedProgramming\bin\Debug\net5.0\ObejectOrientedProgramming.exe
+G:\.net project\ObejectOrientedProgramming\bin\Debug\net5.0\ObejectOrientedProgramming.deps.json
+G:\.net project\ObejectOrientedProgramming\bin\Debug\net5.0\ObejectOrientedProgramming.runtimeconfig.json
+G:\.net project\ObejectOrientedProgramming\bin\Debug\net5.0\ObejectOrientedProgramming.runtimeconfig.dev.json
+G:\.net project\ObejectOrientedProgramming\bin\Debug\net5.0\ObejectOrientedProgramming.dll
+G:\.net project\ObejectOrientedProgramming\bin\Debug\net5.0\ObejectOrientedProgramming.pdb
+G:\.net project\ObejectOrientedProgramming\obj\Debug\net5.0\refint\ObejectOrientedProgramming.dll
+G:\.net project\ObejectOrientedProgramming\obj\Debug\net5.0\ObejectOrientedProgramming.genruntimeconfig.cache
+G:\.net project\ObejectOrientedProgramming\obj\Debug\net5.0\ref\ObejectOrientedProgramming.dll
